@@ -1,0 +1,135 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+header{ background: url(imagens/INICIO.png) no-repeat;
+background-size: 100% 100%;
+text-align: center;
+
+}
+
+
+
+h3{
+margin: 1%;
+left: 75%;
+position: absolute;
+ top: 20%;
+   
+    
+}
+
+h2.h21{
+    margin: 1%;
+    text-align: justify;
+    position: absolute;
+    top: 30%;
+  }  
+    h2.h22{
+
+    margin: 1%;
+    text-align: justify;
+    position: absolute;
+    top: 55%;
+    }
+   
+
+p.p1{
+    margin: 1%;
+    text-align: justify;
+    position: absolute;
+    top: 35%;
+    
+}
+ a{
+    color: rgb(255, 255, 255);
+}
+
+    a.link1{ 
+        margin: 1%;
+        text-align: justify;
+        position: absolute;
+        color: rgb(213, 167, 255);
+       
+        top: 40% ;
+    }
+
+    a.link2{ 
+        margin: 1%;
+        text-align: justify;
+        position: absolute;
+        top: 45%;
+        color: rgb(213, 167, 255);
+      
+    }
+    a.link3{ 
+        margin: 1%;
+        text-align: justify;
+        position: absolute;
+        top: 50%;
+        color: rgb(213, 167, 255);
+  }
+  li{
+    margin: 1%;
+    color: rgb(0, 0, 0);
+  }
+
+   li.l1 {
+
+        margin: 1%;
+        text-align: justify;
+        position: absolute;
+        top: 60%;
+    }
+    li.l2 {
+
+        margin: 1%;
+        text-align: justify;
+        position: absolute;
+        top: 65%;
+    }
+    li.l3 {
+
+        margin: 1%;
+        text-align: justify;
+        position: absolute;
+        top: 70%;
+    }
+    
+    h4.h41{
+        margin: 1%;
+        text-align: justify;
+        position: absolute;
+        top: 100%;
+    
+    }
+    body{
+        background-color: rgb(255, 255, 255)82);
+
+    }
+    img.img2{ background: url(imagens/final2.png) no-repeat;
+ background-size: 100% 100%;
+  width: 100vw;
+   height: 100vh;
+
+   
+    }
+
+p.p4{
+    position: absolute;
+    top: 201%;
+    left: 20%;
+}
+p.p5{
+    position: absolute;
+    top: 201%;
+    left: 55%;
+  
+}
+p.p6{
+    position: absolute;
+    left: 83%;
+    top: 201%;
+    color: aliceblue;
+}
