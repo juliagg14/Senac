@@ -1,0 +1,163 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+header{ background: url(imagens/INICIO.png) no-repeat;
+background-size: 100% 100%;
+text-align: center;
+
+}
+
+img.img1{ 
+    margin: 1%;
+    position: absolute;
+    top: 5%;
+    left: 45%;
+
+}
+
+img.img2{
+    margin: 1%;
+    position: absolute;
+    top: 30%;
+    right: 60%;
+
+}
+
+h3{
+margin: 8%;
+right: 62%;
+position: absolute;
+top: 39%;
+color: rgb(255, 253, 253);
+   
+    
+}
+
+h2.h21{
+
+    margin: 5%;
+    left: 70%;
+    position: absolute;
+    top: 120%;
+    color: aquamarine;
+    background-color: blueviolet;
+    padding: 2px;
+    border-radius: 1px;
+    }
+   
+   
+   
+
+p.p1{
+       
+        position: absolute;
+        top: 136%;
+        left: 68%;
+        color:rgb(56, 50, 59);
+    
+}
+ a{
+    color: rgb(255, 255, 255);
+}
+
+    a.link1{ 
+        margin: 10%;
+        position: absolute;
+        top: 120%;
+        left: 67%;
+        color: rgb(213, 167, 255);
+    }
+
+    a.link2{ 
+        margin: 10%;
+        position: absolute;
+        top: 125%;
+        left: 67%;
+        color: rgb(213, 167, 255);
+      
+    }
+    a.link3{ 
+        margin: 10%;
+        position: absolute;
+        top: 130%;
+        left: 67%;
+        color: rgb(213, 167, 255);
+  }
+
+    
+
+   
+    
+    h4.h41{
+        margin: 1%;
+        text-align: justify;
+        position: absolute;
+        top: 100%;
+    
+    }
+    
+    body{ 
+        background: url(imagens/Inserir\ um\ título\ \(2\).png);
+
+}
+
+   h2.h22{
+
+    margin: 5%;
+    text-align: justify;
+    position: absolute;
+    top: 120%;
+    color: aquamarine;
+    background-color: blueviolet;
+    padding: 2px;
+    border-radius: 1px;
+    }
+    
+   li.li1 {
+    margin: 10%;
+    position: absolute;
+    top: 120%;
+    color: rgb(213, 167, 255);
+}
+
+    li.li2 {
+        margin: 10%;
+        position: absolute;
+        top: 125%;
+        color: rgb(213, 167, 255);
+
+    }
+    li.li3 {
+        margin: 10%;
+        position: absolute;
+        top: 130%;
+        color: rgb(213, 167, 255);
+    }
+
+    img.img3{ background: url(imagens/final2.png) no-repeat;
+ background-size: 100% 100%;
+  width: 100vw;
+   height: 100vh;
+
+   
+    }
+
+p.p4{
+    position: absolute;
+    top: 224%;
+    left: 20%;
+}
+p.p5{
+    position: absolute;
+    top: 224%;
+    left: 55%;
+  
+}
+p.p6{
+    position: absolute;
+    left: 83%;
+    top: 224%;
+    
+}
