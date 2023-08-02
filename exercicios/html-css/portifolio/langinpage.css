@@ -1,0 +1,29 @@
+
+body{
+background:  url(imagens/Inserir\ um\ título.png);
+margin: 0%;
+padding: 0%;
+}
+
+a{
+ background-color: aquamarine;
+ border: none;
+ color: rgb(140, 0, 255);
+ text-decoration: none;
+ padding: 30px;
+ border-radius: 50px;
+cursor: pointer;
+margin-left: 900px;
+margin-right: 90px;
+position: absolute;
+top: 80%;
+
+}
+a:hover{
+    background: #90ff;
+    color: aquamarine;
+    -moz-box-shadow: 0 3px 10px 0 #777ff0;
+    -webkit-box-shadow: 0 3px 10px 0 #888ff0;
+    text-shadow: 0px 0px 5px #7ff8;
+}
+
