@@ -1,0 +1,146 @@
+
+
+input.input1 {
+    top: 20%;
+    left: 45%;
+    text-align: center;
+    background-color: #e5b3ef;
+    color: blueviolet;
+    border-radius: 20px;
+    border: 1px;
+    margin-bottom: 1%;
+    padding: 10px;
+    position: absolute;
+    font-size: medium;
+
+
+}
+input.input2 {
+    top: 30%;
+    left: 45%;
+    text-align: center;
+    background-color: #e5b3ef;
+    color: blueviolet;
+    border-radius: 20px;
+    border: 1px;
+    margin-bottom: 1%;
+    padding: 10px;
+    position: absolute;
+    font-size: medium;
+}
+input.input3 {
+    top: 40%;
+    left: 45%;
+    text-align: center;
+    background-color: #e5b3ef;
+    color: blueviolet;
+    border-radius: 20px;
+    border: 1px;
+    margin-bottom: 1%;
+    padding: 10px;
+    position: absolute;
+    font-size: medium;
+}
+
+input.input4 {
+    top: 50%;
+    left: 45%;
+    text-align: center;
+    background-color: #e5b3ef;
+    color: blueviolet;
+    border-radius: 20px;
+    border: 1px;
+    margin-bottom: 1%;
+    padding: 10px;
+    position: absolute;
+    font-size: medium;
+}
+h1.h1login{
+position: absolute;
+top: 9%;
+left: 39%;
+}
+
+input.inputlog{
+    position: absolute;
+    top: 60%;
+    left: 45%;
+    text-align: center;
+    background-color: #e5b3ef;
+    color: blueviolet;
+    border-radius: 20px;
+    border: #e5b3ef;
+    font-size: medium;
+    padding: 9px;
+    position: absolute;
+    color: black;
+
+}
+
+
+label.l1{
+
+    position: absolute;
+    left: 50%;
+    top: 18%;
+
+}
+
+label.l2{
+
+    position: absolute;
+    left: 50%;
+    top: 28%;
+
+}
+label.l3{
+
+    position: absolute;
+    left: 50%;
+    top: 38%;
+
+}
+label.l4{
+
+    position: absolute;
+    left: 48%;
+    top: 48%;
+
+}
+
+a.alogin{
+    position: absolute;
+    top: 60%;
+    left: 52%;
+    text-align: center;
+    background-color: #e5b3ef;
+    color: blueviolet;
+    border-radius: 20px;
+   
+    padding: 9px;
+    position: absolute;
+    color: black;
+    text-decoration: none;
+    font-size: large;
+}
+
+/* formulario*/ 
+
+
+h1.h1form{
+    text-align: center;
+   color: #8a2be2;
+    font-variant: small-caps;
+}
+
+h3.h3form{
+text-align: center;
+}
+
+
+h2{
+    color: #8a2be2;
+}
+
+
+

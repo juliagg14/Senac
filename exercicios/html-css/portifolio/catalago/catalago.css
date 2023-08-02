@@ -1,0 +1,228 @@
+
+h1.titulo{
+    text-align: center;
+}
+
+h1.h1teclado{
+position: absolute;
+left: 4%;
+}
+
+a.linkteclado{
+    background-color: blueviolet;
+    border: none;
+    color: aquamarine;
+    text-decoration: none;
+    border-radius: 20px;
+    padding: 10px;
+    position: absolute;
+    top: 64%;
+    left: 4%;
+    
+}
+
+img.imgteclado{
+    left: 3%;
+    position: absolute;
+    top: 17%;
+
+}
+
+
+h3.h3teclado{
+    top: 58%;
+    left: 4%;
+    position: absolute;
+}
+
+
+h1.h1mause{
+    left: 52%;
+    top: 8%;
+    position: absolute;
+}
+
+img.imgmause{
+    left: 50%;
+    top: 17%;
+    position: absolute;
+
+}
+
+h3.h3mause{
+
+    left: 50%;
+    top: 58%;
+    position: absolute;
+}
+
+a.linkmause{
+    left: 50%;
+    top: 64%;
+    position: absolute;
+    background-color: blueviolet;
+    border: none;
+    color: aquamarine;
+    text-decoration: none;
+    border-radius: 20px;
+    display: flex;
+    padding: 10px;
+}
+
+
+
+h1.h1monitor{
+
+    left: 52%;
+    top: 71%;
+    position: absolute; 
+    
+}
+
+img.imgmonitor{
+ left: 50%;
+ top: 79%;
+ position: absolute;   
+
+}
+
+h3.h3monitor{
+    left: 50%;
+    top: 121%;
+    position: absolute;   
+
+}
+a.linkmonitor{
+    background-color: blueviolet;
+    border: none;
+    color: aquamarine;
+    text-decoration: none;
+    border-radius: 20px;
+    display: flex;
+    padding: 10px;
+    left: 50%;
+    top: 128%;
+    position: absolute;   
+}
+h1.h1pc{
+
+    left: 4%;
+    top: 71%;
+    position: absolute;
+}
+
+img.imgpc{
+    position: absolute;
+    top: 79%;
+    left: 3%;
+}
+h3.h3pc{
+    left: 4%;
+    top: 121%;
+    position: absolute;  
+}
+
+a.linkpc{
+    background-color: blueviolet;
+    border: none;
+    color: aquamarine;
+    text-decoration: none;
+    border-radius: 20px;
+    padding: 10px;
+    position: absolute;
+    top:128%;
+    left: 4%;
+
+}
+
+/* pagina teclado */
+
+a.voltar{
+   background-color: blueviolet; 
+   color: aqua;
+   border: 15px;
+   padding: 5px;
+   border-radius: 30px;
+   text-decoration: none;
+
+}
+
+h2.valorteclado{
+ background-color: aqua;
+ border: none;
+margin-left: 5px;
+margin-right: 690px;
+
+}
+a.comprarteclado{
+
+    background-color: blueviolet; 
+   color: aqua;
+   border: 15px;
+   padding: 5px;
+   border-radius: 30px;
+   text-decoration: none;
+}
+
+
+/* pagina mouse */
+
+h3.valormause{
+
+background-color: aqua;
+border: none;
+margin-left: 5px;
+margin-right: 770px;
+
+}
+
+a.comprarmause{
+
+   background-color: blueviolet; 
+   color: aqua;
+   border: 15px;
+   padding: 5px;
+   border-radius: 30px;
+   text-decoration: none;
+}
+
+/* pagina pc */
+
+
+h2.valorpc{
+background-color: aqua;
+border: none;
+margin-left: 5px;
+margin-right: 708px;
+
+}
+
+a.comprarpc{
+    background-color: blueviolet; 
+   color: aqua;
+   border: 15px;
+   padding: 5px;
+   border-radius: 30px;
+   text-decoration: none;
+}
+
+/* pagina monitor */
+
+h2.valormonitor{
+background-color: aqua;
+border: none;
+margin-left: 5px;
+margin-right: 725px
+}
+
+a.comprarmonitor{
+    background-color: blueviolet; 
+    color: aqua;
+    border: 15px;
+    padding: 5px;
+    border-radius: 30px;
+    text-decoration: none;
+
+}
+
+
