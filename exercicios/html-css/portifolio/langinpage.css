@@ -10,13 +10,14 @@ a{
  border: none;
  color: rgb(140, 0, 255);
  text-decoration: none;
- padding: 30px;
+ padding: 10px;
  border-radius: 50px;
 cursor: pointer;
-margin-left: 900px;
+margin-left: 915px;
 margin-right: 90px;
 position: absolute;
-top: 80%;
+top: 84%;
+left: 25px;
 
 }
 a:hover{
