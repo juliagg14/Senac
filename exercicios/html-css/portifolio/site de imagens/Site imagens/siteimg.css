@@ -1,8 +1,18 @@
-
+.container{
+    background-color: rgba(255, 255, 255, 0.284);
+    width: 1%;
+    margin: 10% auto;
+    border: 1xp solid ;
+    padding: 12%;
+    margin-bottom: 10%;
+    border-radius: 10% ;
+    position: absolute;
+    left: 40%;
+}
 
 input.input1 {
-    top: 20%;
-    left: 45%;
+    top: 30%;
+    left: 28%;
     text-align: center;
     background-color: aquamarine;
     color: blueviolet;
@@ -16,8 +26,8 @@ input.input1 {
 
 }
 input.input2 {
-    top: 30%;
-    left: 45%;
+    top: 45%;
+    left: 28%;
     text-align: center;
     background-color: aquamarine;
     color: blueviolet;
@@ -29,8 +39,8 @@ input.input2 {
     font-size: medium;
 }
 input.input3 {
-    top: 40%;
-    left: 45%;
+    top: 60%;
+    left: 28%;
     text-align: center;
     background-color: aquamarine;
     color: blueviolet;
@@ -43,8 +53,8 @@ input.input3 {
 }
 
 input.input4 {
-    top: 50%;
-    left: 45%;
+    top: 75%;
+    left: 28%;
     text-align: center;
     background-color: aquamarine;
     color: blueviolet;
@@ -57,15 +67,15 @@ input.input4 {
 }
 h1.h1login{
 position: absolute;
-top: 9%;
-left: 39%;
+top: 3%;
+left: 9%;
 color: aquamarine;
 }
 
 input.inputlog{
     position: absolute;
-    top: 60%;
-    left: 45%;
+    top: 85%;
+    left: 28%;
     text-align: center;
     background-color: aquamarine;
     color: blueviolet;
@@ -82,8 +92,8 @@ input.inputlog{
 label.l1{
 
     position: absolute;
-    left: 50%;
-    top: 18%;
+    left: 48%;
+    top: 26%;
     color: #e5b3ef;
 
 }
@@ -91,32 +101,32 @@ label.l1{
 label.l2{
 
     position: absolute;
-    left: 50%;
-    top: 28%;
+    left: 48%;
+    top: 41%;
     color: #e5b3ef;
 
 }
 label.l3{
 
     position: absolute;
-    left: 50%;
-    top: 38%;
+    left: 48%;
+    top: 56%;
     color: #e5b3ef;
 
 }
 label.l4{
 
     position: absolute;
-    left: 48%;
-    top: 48%;
+    left: 40%;
+    top: 71%;
     color: #e5b3ef;
 
 }
 
 a.alogin{
     position: absolute;
-    top: 60%;
-    left: 52%;
+    top: 85%;
+    left: 57%;
     text-align: center;
     background-color: aquamarine;
     color: blueviolet;
@@ -193,7 +203,7 @@ a.aform{
     font-size: large;
 }
 h4.h4form{
-    left: 35%;
+    left: 38%;
     position: absolute;
     top: 80%;
     color: #e5b3ef;
@@ -219,4 +229,10 @@ a.lform{
     top: 95%;
     color: #e5b3ef;
     text-decoration: none;
+}
+
+/*home*/
+
+body{
+    background: url(../imagens/fundo.png);
 }

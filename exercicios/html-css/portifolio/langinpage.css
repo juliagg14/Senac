@@ -1,8 +1,10 @@
 
 body{
-background:  url(imagens/Inserir\ um\ título.png);
+background:  url(imagens/Inserir\ um\ título.png)no-repeat;
+background-size: 100% ;
 margin: 0%;
 padding: 0%;
+
 }
 
 a{
@@ -17,7 +19,7 @@ margin-left: 915px;
 margin-right: 90px;
 position: absolute;
 top: 84%;
-left: 25px;
+left: 25%;
 
 }
 a:hover{

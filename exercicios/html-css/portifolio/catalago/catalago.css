@@ -1,11 +1,13 @@
 
 h1.titulo{
     text-align: center;
+    color: aquamarine;
 }
 
 h1.h1teclado{
 position: absolute;
 left: 4%;
+color: aquamarine;
 }
 
 a.linkteclado{
@@ -33,6 +35,7 @@ h3.h3teclado{
     top: 58%;
     left: 4%;
     position: absolute;
+    color: aquamarine;
 }
 
 
@@ -40,6 +43,7 @@ h1.h1mause{
     left: 52%;
     top: 8%;
     position: absolute;
+    color: aquamarine;
 }
 
 img.imgmause{
@@ -54,6 +58,7 @@ h3.h3mause{
     left: 50%;
     top: 58%;
     position: absolute;
+    color: aquamarine;
 }
 
 a.linkmause{
@@ -76,6 +81,7 @@ h1.h1monitor{
     left: 52%;
     top: 71%;
     position: absolute; 
+    color: aquamarine;
     
 }
 
@@ -89,7 +95,8 @@ img.imgmonitor{
 h3.h3monitor{
     left: 50%;
     top: 121%;
-    position: absolute;   
+    position: absolute; 
+    color: aquamarine;  
 
 }
 a.linkmonitor{
@@ -109,6 +116,7 @@ h1.h1pc{
     left: 4%;
     top: 71%;
     position: absolute;
+    color: aquamarine;
 }
 
 img.imgpc{
@@ -120,6 +128,7 @@ h3.h3pc{
     left: 4%;
     top: 121%;
     position: absolute;  
+    color: aquamarine;
 }
 
 a.linkpc{
@@ -151,9 +160,18 @@ h2.valorteclado{
  background-color: aqua;
  border: none;
 margin-left: 5px;
-margin-right: 690px;
-
+margin-right: 1670px;
 }
+h1.h1descteclado{
+    color: aqua;
+}
+
+p.pteclado{
+color: aqua;
+margin: 1%;
+}
+
+
 a.comprarteclado{
 
     background-color: blueviolet; 
@@ -172,8 +190,17 @@ h3.valormause{
 background-color: aqua;
 border: none;
 margin-left: 5px;
-margin-right: 770px;
+margin-right: 1740px;
 
+}
+
+h1.h1descmause{
+    color: aqua;
+}
+
+p.pmause{
+    color: aqua;
+    margin: 1%;
 }
 
 a.comprarmause{
@@ -193,8 +220,16 @@ h2.valorpc{
 background-color: aqua;
 border: none;
 margin-left: 5px;
-margin-right: 708px;
+margin-right: 1650px;
 
+}
+
+h1.h1descpc{
+    color: aqua;
+}
+p.ppc{
+    color: aqua;
+    margin: 1%;
 }
 
 a.comprarpc{
@@ -212,7 +247,16 @@ h2.valormonitor{
 background-color: aqua;
 border: none;
 margin-left: 5px;
-margin-right: 725px
+margin-right: 1680px
+}
+
+h1.h1descmonitor{
+color: aqua;
+}
+p.pmonitor{
+ color: aqua;
+ margin: 1%;
+
 }
 
 a.comprarmonitor{
@@ -222,6 +266,15 @@ a.comprarmonitor{
     padding: 5px;
     border-radius: 30px;
     text-decoration: none;
+
+}
+
+body{
+
+background: url(imagens/fundo.png);
+background-size: 100%;
+margin: 0%;
+padding: 0%;
 
 }
 
