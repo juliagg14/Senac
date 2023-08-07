@@ -1,145 +1,3 @@
-.container{
-    background-color: rgba(255, 255, 255, 0.284);
-    width: 1%;
-    margin: 10% auto;
-    border: 1xp solid ;
-    padding: 12%;
-    margin-bottom: 10%;
-    border-radius: 10% ;
-    position: absolute;
-    left: 40%;
-}
-
-input.input1 {
-    top: 30%;
-    left: 28%;
-    text-align: center;
-    background-color: aquamarine;
-    color: blueviolet;
-    border-radius: 20px;
-    border: 1px;
-    margin-bottom: 1%;
-    padding: 10px;
-    position: absolute;
-    font-size: medium;
-
-
-}
-input.input2 {
-    top: 45%;
-    left: 28%;
-    text-align: center;
-    background-color: aquamarine;
-    color: blueviolet;
-    border-radius: 20px;
-    border: 1px;
-    margin-bottom: 1%;
-    padding: 10px;
-    position: absolute;
-    font-size: medium;
-}
-input.input3 {
-    top: 60%;
-    left: 28%;
-    text-align: center;
-    background-color: aquamarine;
-    color: blueviolet;
-    border-radius: 20px;
-    border: 1px;
-    margin-bottom: 1%;
-    padding: 10px;
-    position: absolute;
-    font-size: medium;
-}
-
-input.input4 {
-    top: 75%;
-    left: 28%;
-    text-align: center;
-    background-color: aquamarine;
-    color: blueviolet;
-    border-radius: 20px;
-    border: 1px;
-    margin-bottom: 1%;
-    padding: 10px;
-    position: absolute;
-    font-size: medium;
-}
-h1.h1login{
-position: absolute;
-top: 3%;
-left: 9%;
-color: aquamarine;
-}
-
-input.inputlog{
-    position: absolute;
-    top: 85%;
-    left: 28%;
-    text-align: center;
-    background-color: aquamarine;
-    color: blueviolet;
-    border-radius: 20px;
-    border: #e5b3ef;
-    font-size: medium;
-    padding: 9px;
-    position: absolute;
-    color: black;
-
-}
-
-
-label.l1{
-
-    position: absolute;
-    left: 48%;
-    top: 26%;
-    color: #e5b3ef;
-
-}
-
-label.l2{
-
-    position: absolute;
-    left: 48%;
-    top: 41%;
-    color: #e5b3ef;
-
-}
-label.l3{
-
-    position: absolute;
-    left: 48%;
-    top: 56%;
-    color: #e5b3ef;
-
-}
-label.l4{
-
-    position: absolute;
-    left: 40%;
-    top: 71%;
-    color: #e5b3ef;
-
-}
-
-a.alogin{
-    position: absolute;
-    top: 85%;
-    left: 57%;
-    text-align: center;
-    background-color: aquamarine;
-    color: blueviolet;
-    border-radius: 20px;
-    padding: 9px;
-    position: absolute;
-    color: black;
-    text-decoration: none;
-    font-size: large;
-}
-
-
-
 
 /* formulario*/ 
 
@@ -162,7 +20,7 @@ h2{
 
 
 body{
-    background: url(../imagens/fundo.png);
+    background: url(../imagens/fundo2.jpg);
 }
 
 p.um{
@@ -234,5 +92,6 @@ a.lform{
 /*home*/
 
 body{
-    background: url(../imagens/fundo.png);
+    background: url(../imagens/fundo2.jpg);
+    
 }
