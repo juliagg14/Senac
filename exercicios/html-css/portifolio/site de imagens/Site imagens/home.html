@@ -11,35 +11,47 @@
 <body>
 
    
-    <h3>bem vindo a pagina principal!😊</h3>
 
-    <h3> neste site você tera acesso a varias imagens manipuladas é todas de uso liberado!!</h3>
+    <h3> neste site você tera acesso a varias imagens manipuladas é desenhos, todos de uso liberado!!</h3>
 
  
     <h3 class="h3-busca"> Qual tipo de imagem você procura?🔎 </h3>
 
 
-    <a href="coruja.html" target="_self" rel="next">corujas</a>
+    <a class="btn-cor" href="coruja.html" target="_self" rel="next">corujas</a>
 
-    <a href="paisagem.html" target="_self" rel="next">paisagens</a>
+    <a class="btn-pai" href="paisagem.html" target="_self" rel="next">paisagens</a>
 
-    <a href="emoji.html" target="_self" rel="next">emojis</a>
+    <a class="btn-emo" href="emoji.html" target="_self" rel="next">emojis</a>
 
+    <img class="hm-pai" src="../imagens/imagem1.jpg" alt="paisagem">
+    <img class="hm-cor" src="../imagens/coruja3.jpg" alt="coruja">
+
+    <img class="hm-emo" src="../imagens/emoji1.png" alt="emoji">
  
 
 
+    
 
     <footer>
-        <h4>Caso ouver duvidas, problemas ou ideias sobre o site, entre em contato.</h4>
-        <h3>contatos</h3>
-        <li>
-            📧 <a href="https://mail.google.com/mail/u/0/?hl=pt-BR#inbox" taergt="_blank">gmail </a>
-        </li>
-        <li>
-            📰<a href="https://www.linkedin.com/feed/" target="_blank">linkedin</a>
-        </li>
+        <div class="fot-home">
+            <h3>contatos</h3>
+            <a href="https://www.instagram.com" target="_blank"><img class="insta-site" src="../imagens/insta.png" alt="insta"></a>
+          <a href=https://www.linkedin.com/in/j%C3%BAlia-gomes-624b06278 target="_blank"><img class="link-site" src="../imagens/linkedin_logo.png" alt="linkedin"></a>
+          <a href="https://github.com/juliagg14" target="_blank"><img class="git-site" src="../imagens/github.png" alt="github"></a> 
+            
 
     </footer>
+
+     <script>
+        var nome = prompt('como gostaria de ser chamado?')
+        var exibirNome= function(nome){
+            document.write('<h1 style = > Seja bem vindo ' + nome + '</h1>')
+        }
+
+        
+        exibirNome(nome)
+     </script>
 </body>
 
 </html>
