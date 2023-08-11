@@ -123,7 +123,10 @@ a.lform{
 }
 
 /*home*/
-
+.sbt{
+    text-align: center;
+    color: rgba(127, 255, 212, 0.37);
+}
 
 body{
     background: url(../imagens/fundo2.jpg);
