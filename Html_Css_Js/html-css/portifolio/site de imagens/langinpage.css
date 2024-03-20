@@ -1,0 +1,32 @@
+
+body{
+background:  url(imagens/Inserir\ um\ título.png)no-repeat;
+background-size: 100% ;
+margin: 0%;
+padding: 0%;
+
+}
+
+a{
+background-color: aquamarine;
+border: none;
+color: rgb(140, 0, 255);
+text-decoration: none;
+padding: 10px;
+border-radius: 50px;
+cursor: pointer;
+margin-left: 915px;
+margin-right: 90px;
+position: absolute;
+top: 84%;
+left: 25%;
+
+}
+a:hover{
+
+background: #90ff;
+color: aquamarine;
+
+
+}
+

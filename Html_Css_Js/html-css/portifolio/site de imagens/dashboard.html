@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="dashboard.css">
+    <title>DashBoard</title>
+</head>
+   <body>
+    <footer>
+
+     <a href="inicial.html">voltar ao home</a>
+
+    </footer>
+   
+  <!-- bloquinho 1 --> 
+    <div class="designer">
+    <h1>DESIGN</h1>
+    </div>
+    <img class="design" src="imagens/designer.png" alt="designer">
+    
+ <!-- bloquinho 2 --> 
+
+    <div class="javaS">
+    <h1>JavaS</h1>
+    </div>
+    <img class="java" src="imagens/javaS.png" alt="java">
+
+ <!-- bloquinho 3 --> 
+    <div class="css1">
+        <h1>CSS</h1>
+    </div>
+    <img class="css" src="imagens/css.png" alt="css">
+ <!-- bloquinho 4 --> 
+
+    <div class="html">
+        <h1>HTML</h1>
+    </div>
+    <img class="html5" src="imagens/html.png" alt="html">
+  </div>
+   <!-- estilo grafico --> 
+ <style> html, body, #myChart{
+    width: 800px;
+    margin-left: 10%;
+    margin-top: 10%;
+    
+ }
+
+</style>
+  
+
+  <!-- grafico --> 
+  
+  <div>
+    <canvas id="myChart"></canvas>
+  </div>
+  
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  
+  <script>
+    const ctx = document.getElementById('myChart');
+  
+    new Chart(ctx, {
+      type: 'bar',
+      data: {
+        labels: ['Design', 'JavaS', 'Css', 'HTML'],
+        datasets: [{
+          label: '# CONHECIMENTOS',
+          data: [17, 6, 14, 14,],
+          borderWidth: 1
+        }]
+      },
+      options: {
+        scales: {
+          y: {
+            beginAtZero: true
+          }
+        }
+      }
+    });
+  </script>
+  </body>
+</html>

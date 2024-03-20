@@ -1,0 +1,428 @@
+
+/* formulario*/ 
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.fot-site{
+    background-color: #770fff;
+    padding: 1px;
+    margin: 0%;
+    margin-top: 13%;
+    
+
+}
+.insta-site{
+width: 30px;
+margin-left: 48%;
+
+}
+
+.link-site{
+    width: 30px;
+    margin-left: 0%;
+}
+.git-site{
+    width: 30px;
+    margin-left:0%;
+
+}
+.fot-site > h3{
+    margin-left: 49%;
+    margin-bottom: 1%;
+    color: aliceblue;
+}
+
+
+
+.form-dv{
+    margin-top: 5%;
+    border: solid 1px #00fbd1;
+    background-color: rgba(0, 0, 0, 0.422);
+    width: 500px;
+    padding: 100px;
+    margin-left: 32%;
+    
+
+}
+
+h1.h1form{
+    text-align: center;
+   color: aquamarine;
+    font-variant: small-caps;
+}
+
+h3.h3form{
+text-align: center;
+color: #e5b3ef;
+}
+
+
+h2{
+    margin-bottom: 20px;
+    color: aquamarine
+}
+
+
+body{
+    background: url(../imagens/fundo2.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    
+}
+
+
+p.p-site{
+    color: #e5b3ef;
+    margin-bottom: 20px;
+}
+
+    
+a.aform{
+    position: absolute;
+    top: 65%;
+    left: 65%;
+    text-align: center;
+    background-color: aquamarine;
+    color: blueviolet;
+    border-radius: 20px;
+    padding: 9px;
+    position: absolute;
+    color: black;
+    text-decoration: none;
+    font-size: large;
+}
+h4.h4form{
+    left: 38%;
+    position: absolute;
+    top: 80%;
+    color: #e5b3ef;
+}
+h3.h32form{
+    left: 50%;
+    position: absolute;
+    top: 88%;
+    color: aquamarine;
+}
+
+a.gform{
+    left: 40%;
+    position: absolute;
+    top: 95%;
+    color: #e5b3ef;
+    text-decoration: none;
+}
+
+a.lform{
+    left: 60%;
+    position: absolute;
+    top: 95%;
+    color: #e5b3ef;
+    text-decoration: none;
+}
+
+/*home*/
+.sbt{
+    text-align: center;
+    color: rgba(127, 255, 212, 0.37);
+}
+
+body{
+    background: url(../imagens/fundo2.jpg);
+    
+}
+.h3-busca{
+    background-color: azure;
+    color: black;
+    border: none;
+    border-radius: 15px;
+    padding: 5px;
+    width: 17%;
+    margin-left: 40%;
+    margin-top: 8%;
+}
+.fot-home{
+    background-color: #770fff;
+    padding: 1px;
+    margin: 0%;
+    margin-top: 42%;
+    
+
+}
+.insta-site{
+width: 30px;
+margin-left: 48%;
+
+}
+
+.link-site{
+    width: 30px;
+    margin-left: 0%;
+}
+.git-site{
+    width: 30px;
+    margin-left:0%;
+
+}
+
+.fot-home > h3{
+    margin-left: 49%;
+    margin-bottom: 1%;
+    color: aliceblue;
+}
+
+
+.hm-pai{
+    border: none;
+    border-radius: 150px;
+     width: 300px;
+     margin-left: 20%;
+     margin-top: 10%;
+}
+
+.btn-pai{
+    background-color: aquamarine;
+    color: black;
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 20px;
+    box-shadow: 0px 10px 20px -8px rgba(0, 1, 1, 0.595);
+    position: absolute;
+    top: 70%;
+    left: 26%;
+
+}
+
+.hm-cor{
+    
+     border-radius: 3500px;
+     width: 300px;
+     margin-left: 6%;
+     margin-top: 10%;
+     position: absolute;
+}
+
+.btn-cor{
+    background-color: aquamarine;
+    color: black;
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 20px;
+    box-shadow: 0px 10px 20px -8px rgba(0, 1, 1, 0.595);
+    position: absolute;
+    top: 70%;
+    left: 49%;
+
+}
+
+.hm-emo{
+    position: absolute;
+    border-radius: 300px;
+    width: 250px;
+   left: 65%;
+    margin-top: 10%;
+}
+
+.btn-emo{
+    background-color: aquamarine;
+    color: black;
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 20px;
+    box-shadow: 0px 10px 20px -8px rgba(0, 1, 1, 0.595);
+    position: absolute;
+    top: 70%;
+    left: 70%;
+
+}
+
+/*pagina coruja*/
+
+
+.cor-h2{ 
+   text-align: center;
+
+}
+
+.cor-img1{
+    border: none;
+    border-radius: 40px;
+    padding: 10px;
+    width: 400px;
+    height: 300px;
+    position: absolute;
+    left: 420px;
+    top: 200px;
+}
+
+.cor-img2{
+    border: none;
+    border-radius: 40px;
+    padding: 10px;
+    width: 400px;
+    height: 300px;
+    position: absolute;
+    left:1000px;
+    top: 200px;
+}
+
+.cor-img3{
+    border: none;
+    border-radius: 40px;
+    padding: 10px;
+    width: 400px;
+    height: 300px;
+    position: absolute;
+    left:420px;
+    top: 600px;
+}
+
+
+
+.btn-1{
+ background-color: rgb(144, 0, 255);
+ color: rgba(127, 255, 212, 0.682) ;
+ padding: 5px;
+ border-radius: 20px;
+ text-decoration: none;
+ position: absolute;
+ left: 600px;
+ top: 550px;
+
+
+}
+
+.btn-2{
+    background-color: rgb(144, 0, 255);
+ color: rgba(127, 255, 212, 0.682) ;
+ padding: 5px;
+ border-radius: 20px;
+ text-decoration: none;
+ position: absolute;
+ left: 1170px;
+ top: 550px;
+
+}
+
+.btn-3{
+    background-color: rgb(144, 0, 255);
+ color: rgba(127, 255, 212, 0.682) ;
+ padding: 5px;
+ border-radius: 20px;
+ text-decoration: none;
+ position: absolute;
+ left: 600px;
+ top: 950px;
+
+}
+
+.cor-fot{
+    background-color: rgb(30, 1, 58);
+    width: 100vw;
+    margin: 0;
+    padding: 20px;
+    box-shadow: 0px 10px 20px -8px rgba(128, 228, 195, 0.63);
+    
+
+}
+
+.cor-home{
+    color: aquamarine;
+    text-decoration: none;
+    position: absolute;
+    top: 15px;
+    left: 20px;
+    
+}
+.cor-home:hover{
+        background: rgb(73, 1, 141);
+        color: aquamarine;
+        border-radius: 20px;
+        padding: 3px;
+}
+
+/* Pagina paisagens*/
+
+.pais-img1{
+    border: none;
+    border-radius: 40px;
+    padding: 10px;
+    width: 400px;
+    height: 300px;
+    position: absolute;
+    left: 420px;
+    top: 200px; 
+}
+
+.pais-img2{
+    border: none;
+    border-radius: 40px;
+    padding: 10px;
+    width: 400px;
+    height: 300px;
+    position: absolute;
+    left:1000px;
+    top: 200px;
+}
+
+.pais-img3{
+    border: none;
+    border-radius: 40px;
+    padding: 10px;
+    width: 400px;
+    height: 300px;
+    position: absolute;
+    left:420px;
+    top: 600px;
+}
+.topo-pais{
+    background-color: rgb(30, 1, 58);
+    width: 100vw;
+    margin: 0;
+    padding: 20px;
+    box-shadow: 0px 10px 20px -8px rgba(128, 228, 195, 0.63);
+}
+.pais-h2{
+    text-align: center;
+}
+
+/* pagina emojis*/ 
+
+.emo-img1{
+    border: none;
+    border-radius: 40px;
+    padding: 10px;
+    width: 400px;
+    height: 300px;
+    position: absolute;
+    left: 420px;
+    top: 200px; 
+}
+
+.emo-img2{
+    border: none;
+    border-radius: 40px;
+    padding: 10px;
+    width: 400px;
+    height: 300px;
+    position: absolute;
+    left:1000px;
+    top: 200px;
+}
+
+.emo-img3{
+    border: none;
+    border-radius: 40px;
+    padding: 10px;
+    width: 400px;
+    height: 300px;
+    position: absolute;
+    left:420px;
+    top: 600px;
+}
+
+
+
+
+

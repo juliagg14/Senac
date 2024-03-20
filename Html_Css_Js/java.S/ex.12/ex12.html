@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+     var forma = prompt("Digite a forma geométrica: ")
+
+    function calcularTriangulo(base, altura) {
+
+    var area = ((base * altura) / 2)
+
+    return area
+
+}
+
+   function calcularQuadrado(largura, comprimento) {
+
+    var area = (largura * comprimento)
+
+    return area
+
+}
+
+function calcularCirculo(raio) {
+
+    var area = (raio * raio)* Math.PI;
+
+    return area
+
+}
+
+ 
+if (forma == "quadrado") {
+
+
+    var largura = prompt("Digite a largura do quadrado: ")
+
+    var comprimento = prompt("Digite o comprimento do quadrado: ")
+
+    largura = parseInt(largura)
+
+    comprimento = parseInt(comprimento)
+
+    var area = calcularQuadrado(largura, comprimento)
+
+    document.write("A area do quadrado é: " + area)
+
+}
+
+
+if (forma == "triangulo") {
+
+    var base = prompt("Digite a base do triangulo: ")
+
+    var altura = prompt("Digite a altura do triangulo: ")
+
+    base = parseInt(base)
+
+    altura = parseInt(altura)
+
+    var area = calcularTriangulo(base, altura)
+
+    document.write("A area do triangulo é: " + area)
+
+}
+
+
+if (forma == "circulo") {
+
+    var pi = 3.14
+
+    var raio = prompt("Digite o raio do circulo: ") 
+
+    raio = parseInt(raio)
+
+    var area = calcularCirculo(raio)
+
+    document.write("A area do circulo é: " + area)
+ 
+}                                                                                                                                             
+    </script>
+</body>
+</html>

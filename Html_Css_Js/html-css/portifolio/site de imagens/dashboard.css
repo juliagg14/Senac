@@ -1,0 +1,121 @@
+*{
+    margin: 0%;
+    padding: 0%
+}
+body{
+    background: rgb(14, 0, 41);
+}
+a{
+        width: 10vw;
+        position: absolute;
+        top: 2%;
+        left: 90%;
+        text-decoration: none;
+        color: aquamarine;
+        border: none;
+        border-radius: 20px;
+        text-align: center;
+    }
+   a:hover{
+        background: rgb(73, 1, 141);
+        color: aquamarine;
+    }
+
+.designer{
+    background: rgb(20, 0, 59);
+    box-shadow: 0px 10px 40px -12px rgba(28, 29, 29, 0.671);
+    padding: 40px;
+    width: 90px;
+    position: absolute;
+    left: 20%;
+    top: 10%;
+    border-radius: 20px;
+    
+}
+
+.designer > h1{
+  
+text-align: end;
+font-size: medium;
+color: azure;
+}
+
+.design{
+    width: 120px;
+    position: absolute;
+    left: 18%;
+    top: 10%;
+
+}
+.javaS{
+    position: absolute;
+    left: 35%;
+    top: 10%;
+    background: rgb(20, 0, 59);
+    box-shadow: 0px 10px 40px -12px rgba(28, 29, 29, 0.671);
+    padding: 40px;
+    width: 90px;
+    border-radius: 20px;
+}
+.java{
+   width: 130px;
+   position: absolute;
+   left: 34%;
+   top: 9%;
+}
+
+.javaS > h1{
+text-align: end;
+font-size: medium;
+color: azure;
+    
+}
+
+.css1{
+    position: absolute;
+    left: 50%;
+    top: 10%;
+    background: rgb(20, 0, 59);
+    box-shadow: 0px 10px 40px -12px rgba(28, 29, 29, 0.671);
+    padding: 40px;
+    width: 90px;
+    border-radius: 20px;
+    
+}
+
+.css1 > h1{
+ text-align: end;
+font-size: medium;
+color: azure;
+}
+
+.css{
+    width: 140px;
+    position: absolute;
+    left: 48%;
+    top: 8%;
+}
+
+.html{
+position: absolute;
+    left: 65%;
+    top: 10%;
+    background: rgb(20, 0, 59);
+    box-shadow: 0px 10px 40px -12px rgba(28, 29, 29, 0.671);
+    padding: 40px;
+    width: 90px;
+    border-radius: 20px;
+}
+
+.html > h1 {
+text-align: end;
+font-size: medium;
+color: azure; 
+}
+
+.html5{
+    width: 130px;
+    position: absolute;
+    left: 63%;
+    top: 9%;
+}

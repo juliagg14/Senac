@@ -1,0 +1,281 @@
+
+h1.titulo{
+    text-align: center;
+    color: aquamarine;
+}
+
+h1.h1teclado{
+position: absolute;
+left: 4%;
+color: aquamarine;
+}
+
+a.linkteclado{
+    background-color: blueviolet;
+    border: none;
+    color: aquamarine;
+    text-decoration: none;
+    border-radius: 20px;
+    padding: 10px;
+    position: absolute;
+    top: 64%;
+    left: 4%;
+    
+}
+
+img.imgteclado{
+    left: 3%;
+    position: absolute;
+    top: 17%;
+
+}
+
+
+h3.h3teclado{
+    top: 58%;
+    left: 4%;
+    position: absolute;
+    color: aquamarine;
+}
+
+
+h1.h1mause{
+    left: 52%;
+    top: 8%;
+    position: absolute;
+    color: aquamarine;
+}
+
+img.imgmause{
+    left: 50%;
+    top: 17%;
+    position: absolute;
+
+}
+
+h3.h3mause{
+
+    left: 50%;
+    top: 58%;
+    position: absolute;
+    color: aquamarine;
+}
+
+a.linkmause{
+    left: 50%;
+    top: 64%;
+    position: absolute;
+    background-color: blueviolet;
+    border: none;
+    color: aquamarine;
+    text-decoration: none;
+    border-radius: 20px;
+    display: flex;
+    padding: 10px;
+}
+
+
+
+h1.h1monitor{
+
+    left: 52%;
+    top: 71%;
+    position: absolute; 
+    color: aquamarine;
+    
+}
+
+img.imgmonitor{
+ left: 50%;
+ top: 79%;
+ position: absolute;   
+
+}
+
+h3.h3monitor{
+    left: 50%;
+    top: 121%;
+    position: absolute; 
+    color: aquamarine;  
+
+}
+a.linkmonitor{
+    background-color: blueviolet;
+    border: none;
+    color: aquamarine;
+    text-decoration: none;
+    border-radius: 20px;
+    display: flex;
+    padding: 10px;
+    left: 50%;
+    top: 128%;
+    position: absolute;   
+}
+h1.h1pc{
+
+    left: 4%;
+    top: 71%;
+    position: absolute;
+    color: aquamarine;
+}
+
+img.imgpc{
+    position: absolute;
+    top: 79%;
+    left: 3%;
+}
+h3.h3pc{
+    left: 4%;
+    top: 121%;
+    position: absolute;  
+    color: aquamarine;
+}
+
+a.linkpc{
+    background-color: blueviolet;
+    border: none;
+    color: aquamarine;
+    text-decoration: none;
+    border-radius: 20px;
+    padding: 10px;
+    position: absolute;
+    top:128%;
+    left: 4%;
+
+}
+
+/* pagina teclado */
+
+a.voltar{
+   background-color: blueviolet; 
+   color: aqua;
+   border: 15px;
+   padding: 5px;
+   border-radius: 30px;
+   text-decoration: none;
+
+}
+
+h2.valorteclado{
+ background-color: aqua;
+ border: none;
+margin-left: 5px;
+margin-right: 1670px;
+}
+h1.h1descteclado{
+    color: aqua;
+}
+
+p.pteclado{
+color: aqua;
+margin: 1%;
+}
+
+
+a.comprarteclado{
+
+    background-color: blueviolet; 
+   color: aqua;
+   border: 15px;
+   padding: 5px;
+   border-radius: 30px;
+   text-decoration: none;
+}
+
+
+/* pagina mouse */
+
+h3.valormause{
+
+background-color: aqua;
+border: none;
+margin-left: 5px;
+margin-right: 1740px;
+
+}
+
+h1.h1descmause{
+    color: aqua;
+}
+
+p.pmause{
+    color: aqua;
+    margin: 1%;
+}
+
+a.comprarmause{
+
+   background-color: blueviolet; 
+   color: aqua;
+   border: 15px;
+   padding: 5px;
+   border-radius: 30px;
+   text-decoration: none;
+}
+
+/* pagina pc */
+
+
+h2.valorpc{
+background-color: aqua;
+border: none;
+margin-left: 5px;
+margin-right: 1650px;
+
+}
+
+h1.h1descpc{
+    color: aqua;
+}
+p.ppc{
+    color: aqua;
+    margin: 1%;
+}
+
+a.comprarpc{
+    background-color: blueviolet; 
+   color: aqua;
+   border: 15px;
+   padding: 5px;
+   border-radius: 30px;
+   text-decoration: none;
+}
+
+/* pagina monitor */
+
+h2.valormonitor{
+background-color: aqua;
+border: none;
+margin-left: 5px;
+margin-right: 1680px
+}
+
+h1.h1descmonitor{
+color: aqua;
+}
+p.pmonitor{
+ color: aqua;
+ margin: 1%;
+
+}
+
+a.comprarmonitor{
+    background-color: blueviolet; 
+    color: aqua;
+    border: 15px;
+    padding: 5px;
+    border-radius: 30px;
+    text-decoration: none;
+
+}
+
+body{
+
+background: url(imagens/fundo.png);
+background-size: 100%;
+margin: 0%;
+padding: 0%;
+
+}
+
+
